@@ -1,0 +1,21 @@
+body {
+    font-family: Arial;
+    background-color: #f4f6f8;
+}
+
+.table {
+    border-collapse: collapse;
+    width: 60%;
+}
+
+.table th, .table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+}
+
+.btn {
+    background: #3498db;
+    color: white;
+    padding: 8px 12px;
+    text-decoration: none;
+}
